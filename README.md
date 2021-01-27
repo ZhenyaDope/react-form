@@ -1,3 +1,33 @@
+# Посмотреть демо-версию проекта
+
+Демо-версия проекта доступна по ссылке - https://zhenyadope.github.io/react-form/#/
+
+# О проекте
+
+Регистрация и авторизация пользователей с использованием базы данных Firebase.
+
+# Задачи
+
+- Форма авторизации и регистрации
+- Валидация форм (Проверка Email, минимальный пароль, повтор пароля)
+- Обработка ошибок
+- Приватная страница которая доступна только после регистрации
+- Редактировании имени пользователя (Firebase)
+- Перенаправление пользователя после авторизации
+- Обработка несуществующего URL
+- Выход из аккаунта
+
+# Используемые технологии и библиотеки
+
+- React (React Hooks)
+- Redux
+- Firebase ( https://firebase.google.com/ )
+- React-router-dom
+- React-redux
+- React-hook-form
+- Style modules
+- Вёрстка
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
