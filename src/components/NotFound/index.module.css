@@ -1,0 +1,25 @@
+.wrapper{
+    min-width: 100vh;
+    min-height: 100vh;
+    background: #362B64;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+    flex-direction: column;
+}
+.title{
+    font-size: 126px;
+    margin-bottom: 20px;
+}
+.subTitle{
+    font-size:24px;
+    margin-bottom: 20px;
+}
+.link{
+    color:#fff;
+    font-size:20px;
+}
+.link:active{
+    color:#fff;
+}
